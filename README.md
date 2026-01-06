@@ -1,4 +1,4 @@
-![MasterHead](https://assets10.lottiefiles.com/packages/lf20_w51pcehl.json)
+![MasterHead](/photo1.png)
 <h1 align="center">Hi 👋, I'm Ayush Parija</h1>
 <h3 align="center">------------Python Full Stack Developer------------</h3>
 
