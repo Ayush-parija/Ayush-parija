@@ -13,15 +13,15 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as **Python Full Stack Developer**
-- 🌱 I’m currently learning **Advanced Django & SQL Optimization**
+- 🔭 “Entry-Level Python Full Stack Developer actively seeking a position”
+- 🌱 I’m currently learning Django,Postgres,Reactjs
 - 👯 I’m looking to collaborate on **Web & Full Stack Projects**
 - 💬 Ask me about **Python, Django, SQL, HTML, CSS, JavaScript**
 - 📫 How to reach me **ayushparija2002@gmail.com**
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/ayush-parija" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
