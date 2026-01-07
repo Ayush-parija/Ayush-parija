@@ -1,4 +1,4 @@
-![MasterHead](/photo1.png)
+![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
 <h1 align="center">Hi 👋, I'm Ayush Parija</h1>
 <h3 align="center">------------Python Full Stack Developer------------</h3>
 
