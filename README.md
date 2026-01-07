@@ -1,4 +1,4 @@
-![MasterHead](YOUR_GIF_LINK_HERE)
+![MasterHead](https://github.com/Ayush-parija/Ayush-parija/blob/main/gif%20(2).gif)
 
 <h1 align="center">Hi 👋, I'm Ayush Parija</h1>
 <h3 align="center">------------Python Full Stack Developer------------</h3>
